@@ -1,4 +1,6 @@
-# Redis Proxy Design Architecture
+# ReNdang
+
+Redis Multi-tenancy Proxy
 
 ## Overview
 
